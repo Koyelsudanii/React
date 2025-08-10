@@ -1,3 +1,8 @@
-//nrhheu
-jdhhau
-functiong
+function Header(){
+
+    return (
+        <p>header component</p>
+    )
+}
+
+export default Header
